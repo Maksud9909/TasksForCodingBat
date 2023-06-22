@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="SquirrelPlay.java done">
-      <change afterPath="$PROJECT_DIR$/src/Logic1/In1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/Love6.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Some Practise">
+      <change afterPath="$PROJECT_DIR$/src/Logic1/AnswerCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/Less20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/More20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/NearTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/Old35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/SpecialEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logic1/TeenSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685773142151</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Some Practise">
+      <created>1687447588426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687447588426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CigarParty" />
     <MESSAGE value="SquirrelPlay.java done" />
-    <option name="LAST_COMMIT_MESSAGE" value="SquirrelPlay.java done" />
+    <MESSAGE value="Some Practise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some Practise" />
   </component>
 </project>
