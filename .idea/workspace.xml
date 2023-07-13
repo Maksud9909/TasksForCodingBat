@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Some Practise">
-      <change afterPath="$PROJECT_DIR$/src/Logic1/AnswerCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/Less20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/More20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/NearTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/Old35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/SpecialEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/TeenSum.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Task fiz biz">
+      <change afterPath="$PROJECT_DIR$/src/Logic1/FizzString2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Love6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Logic1.Love6" />
@@ -104,7 +99,22 @@
       <option name="project" value="LOCAL" />
       <updated>1687447588426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Some Practise 2">
+      <created>1687452853221</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687452853221</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task fiz biz">
+      <option name="closed" value="true" />
+      <created>1689234060845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689234060845</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +132,8 @@
     <MESSAGE value="CigarParty" />
     <MESSAGE value="SquirrelPlay.java done" />
     <MESSAGE value="Some Practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some Practise" />
+    <MESSAGE value="Some Practise 2" />
+    <MESSAGE value="Task fiz biz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task fiz biz" />
   </component>
 </project>
