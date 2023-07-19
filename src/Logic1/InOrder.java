@@ -10,5 +10,4 @@ public class InOrder {
             return false;
         }
     }
-
 }
