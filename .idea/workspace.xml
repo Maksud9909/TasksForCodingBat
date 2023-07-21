@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Another task 3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/BlueTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/GreenTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/LessBy10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/MaxMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/RedTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic1/ShareDigits.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Tasks for coding bat">
+      <change afterPath="$PROJECT_DIR$/src/Logic1/SumLimit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic1/InOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic1/InOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Logic1/ShareDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic1/ShareDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689234741947</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Tasks for coding bat">
+      <option name="closed" value="true" />
+      <created>1689773156348</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773156348</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +193,7 @@
     <MESSAGE value="Another task" />
     <MESSAGE value="Another task 2" />
     <MESSAGE value="Another task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Another task 3" />
+    <MESSAGE value="Tasks for coding bat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks for coding bat" />
   </component>
 </project>
