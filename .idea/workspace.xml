@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Tasks for coding bat">
-      <change afterPath="$PROJECT_DIR$/src/Logic1/SumLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/CommonEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Has23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MakeEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MakePI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxEnd3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MiddleWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RotateLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Summ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MakeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String2/CountCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/Array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/CatDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/CountHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/DoubleChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/Has271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/NoTriples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/StringYak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic1/ShareDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic1/ShareDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +50,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2QgOYv0QXnAzNuZxDy7oQgyBrqK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,13 +68,44 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="sin" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SingleNumber">
+    <configuration name="DoubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warmup2.DoubleChar" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warmup2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Love6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Logic1.Love6" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Logic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.SingleNumber" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,6 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.DoubleChar" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Love6" />
@@ -170,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689773156348</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tasks for coding bat">
+      <option name="closed" value="true" />
+      <created>1689927905497</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1689927905498</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
