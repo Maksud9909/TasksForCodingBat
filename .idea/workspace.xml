@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Train">
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/Conuntxx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/FrontTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/Splosion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Warmup2/StringBeats.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Tasks for today">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MakeLasr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MakeLasr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Splosion">
+  <component name="RunManager" selected="Application.Search">
     <configuration name="DoubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Warmup2.DoubleChar" />
       <module name="TasksForCodingBat" />
@@ -71,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.SingleNumber" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Search" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Solution" />
+    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.SingleNumber" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Search" />
         <item itemvalue="Application.Splosion" />
         <item itemvalue="Application.SingleNumber" />
         <item itemvalue="Application.DoubleChar" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691410029062</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Tasks for today">
+      <option name="closed" value="true" />
+      <created>1691758206137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691758206137</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +255,7 @@
     <MESSAGE value="Another task 3" />
     <MESSAGE value="Tasks for coding bat" />
     <MESSAGE value="Train" />
-    <option name="LAST_COMMIT_MESSAGE" value="Train" />
+    <MESSAGE value="Tasks for today" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks for today" />
   </component>
 </project>
