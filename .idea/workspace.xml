@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Tasks for today">
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved a leetcode">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Search.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +53,7 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Search">
-    <configuration name="DoubleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup2.DoubleChar" />
-      <module name="TasksForCodingBat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Warmup2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Search" />
       <module name="TasksForCodingBat" />
@@ -106,19 +94,38 @@
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Test1" />
       <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.TwoSum" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Search" />
         <item itemvalue="Application.Splosion" />
         <item itemvalue="Application.SingleNumber" />
-        <item itemvalue="Application.DoubleChar" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691758206137</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Solved a leetcode">
+      <option name="closed" value="true" />
+      <created>1691759387102</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691759387102</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +271,7 @@
     <MESSAGE value="Tasks for coding bat" />
     <MESSAGE value="Train" />
     <MESSAGE value="Tasks for today" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks for today" />
+    <MESSAGE value="Solved a leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved a leetcode" />
   </component>
 </project>
