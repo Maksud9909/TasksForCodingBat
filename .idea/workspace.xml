@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved a leetcode">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String2/BobThere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String2/EndOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String2/CountCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/CountCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +55,13 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test1">
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Search" />
+  <component name="RunManager" selected="Application.CountCode">
+    <configuration name="CountCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2.CountCode" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="String2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.SingleNumber" />
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Search" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountCode" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Search" />
         <item itemvalue="Application.Splosion" />
-        <item itemvalue="Application.SingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691759387102</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Solved a leetcode">
+      <option name="closed" value="true" />
+      <created>1692001891161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692001891161</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
