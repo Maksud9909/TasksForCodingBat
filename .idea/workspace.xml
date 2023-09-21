@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved a leetcode">
-      <change afterPath="$PROJECT_DIR$/src/String2/BobThere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2/EndOther.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Bobthere">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/RowMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Temprature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trash/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warmup2/StringSplosion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String2/CountCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/CountCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountCode">
+  <component name="RunManager" selected="Application.Trash.Test1">
     <configuration name="CountCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String2.CountCode" />
       <module name="TasksForCodingBat" />
@@ -69,25 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Search" />
+    <configuration name="RowMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.RowMaxMin" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Splosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Warmup2.Splosion" />
-      <module name="TasksForCodingBat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Warmup2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +88,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trash.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trash.Test1" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trash.Test1" />
+        <item itemvalue="Application.RowMaxMin" />
         <item itemvalue="Application.CountCode" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.Search" />
-        <item itemvalue="Application.Splosion" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692001891161</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Bobthere">
+      <option name="closed" value="true" />
+      <created>1693382797901</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693382797901</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +290,7 @@
     <MESSAGE value="Train" />
     <MESSAGE value="Tasks for today" />
     <MESSAGE value="Solved a leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved a leetcode" />
+    <MESSAGE value="Bobthere" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bobthere" />
   </component>
 </project>

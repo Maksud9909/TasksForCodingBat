@@ -4,4 +4,8 @@ import java.util.Arrays;
 
 public class NoTriples {
 
+    public boolean noTriples(int[] nums) {
+
+    }
+
 }
