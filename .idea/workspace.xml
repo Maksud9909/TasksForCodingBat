@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Bobthere">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/FitstBad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/LenghtOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/SearchPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2/PrefixAgain.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="That's great that it is working">
+      <change afterPath="$PROJECT_DIR$/src/Array/Double23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Fix23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Start1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SwapArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Warmup2/Has271.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warmup2/Has271.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695299505889</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="That's great that it is working">
+      <option name="closed" value="true" />
+      <created>1696587005517</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696587005517</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,6 +315,7 @@
     <MESSAGE value="Tasks for today" />
     <MESSAGE value="Solved a leetcode" />
     <MESSAGE value="Bobthere" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bobthere" />
+    <MESSAGE value="That's great that it is working" />
+    <option name="LAST_COMMIT_MESSAGE" value="That's great that it is working" />
   </component>
 </project>
