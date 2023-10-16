@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="That's great that it is working">
-      <change afterPath="$PROJECT_DIR$/src/Array/Double23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Fix23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Start1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SwapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxTriple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map1/MapBully.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map1/MapShare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MidThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MidThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696587005517</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="That's great that it is working">
+      <option name="closed" value="true" />
+      <created>1697206277367</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697206277367</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
