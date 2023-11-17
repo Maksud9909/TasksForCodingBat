@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="That's great that it is working">
-      <change afterPath="$PROJECT_DIR$/src/Array2/CountEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2/RepeatEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2/RepeatSeparator.java" afterDir="false" />
+    <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Smth new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MidThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MidThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Map1/MapShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map1/MapShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2/BigDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2/BigDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String2/RepeatSeparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/RepeatSeparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +65,13 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.RepeatEnd">
-    <configuration name="CountCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String2.CountCode" />
+  <component name="RunManager" selected="Application.BigDiff">
+    <configuration name="BigDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2.BigDiff" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String2.*" />
+          <option name="PATTERN" value="Array2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigDiff" />
         <item itemvalue="Application.RepeatEnd" />
         <item itemvalue="Application.PrefixAgain" />
         <item itemvalue="Application.Trash.Test1" />
         <item itemvalue="Application.RowMaxMin" />
-        <item itemvalue="Application.CountCode" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697450595835</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Smth new">
+      <option name="closed" value="true" />
+      <created>1700213634839</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1700213634839</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -345,6 +350,7 @@
     <MESSAGE value="Solved a leetcode" />
     <MESSAGE value="Bobthere" />
     <MESSAGE value="That's great that it is working" />
-    <option name="LAST_COMMIT_MESSAGE" value="That's great that it is working" />
+    <MESSAGE value="Smth new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Smth new" />
   </component>
 </project>
