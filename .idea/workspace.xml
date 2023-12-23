@@ -5,10 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved some tasks">
-      <change afterPath="$PROJECT_DIR$/src/Array/Front1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Unlucky1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MakeLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MakeMiddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/No23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Reverse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/RotateLeft3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/FizArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Lucky13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/More14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/No14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Only14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Sum28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/AddStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Copies3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Doubling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Math1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/MoreY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Nox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/RightDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional2/No9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional2/NoNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional2/NoTeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functional2/NoZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/BuyChoco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map2/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map2/Word0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map2/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map2/WordLen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic1/LastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic1/LastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/SameFirstLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/SameFirstLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/LenghtOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/LenghtOfLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/SearchPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/SearchPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +84,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddStar.executor": "Run",
     "Application.ConCat.executor": "Run",
     "Application.MapAB2.executor": "Run",
+    "Application.NoZ.executor": "Run",
     "Application.ScoresIncreasing.executor": "Run",
+    "Application.Sum28.executor": "Run",
     "Application.Unlucky1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,13 +103,13 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Unlucky1">
-    <configuration name="BigDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2.BigDiff" />
+  <component name="RunManager" selected="Application.NoZ">
+    <configuration name="AddStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functional1.AddStar" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array2.*" />
+          <option name="PATTERN" value="Functional1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,25 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String1.ConCat" />
+    <configuration name="NoZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functional2.NoZ" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapAB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map1.MapAB2" />
-      <module name="TasksForCodingBat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Map1.*" />
+          <option name="PATTERN" value="Functional2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,6 +136,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AP1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2.Sum28" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoZ" />
+        <item itemvalue="Application.AddStar" />
+        <item itemvalue="Application.Sum28" />
         <item itemvalue="Application.Unlucky1" />
         <item itemvalue="Application.ScoresIncreasing" />
-        <item itemvalue="Application.ConCat" />
-        <item itemvalue="Application.MapAB2" />
-        <item itemvalue="Application.BigDiff" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702750833281</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Solved some tasks">
+      <option name="closed" value="true" />
+      <created>1702990509477</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1702990509477</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

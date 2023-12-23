@@ -4,16 +4,13 @@ import java.util.ListIterator;
 
 public class LenghtOfLastWord {
 //    public int lengthOfLastWord(String str) {
-//        int result = 0;
+//        String res = null;
 //        for (int i = 0; i < str.length(); i++) {
-//            char c = str.charAt(i);
-//            if (c == ' '){
-//                ListIterator<>
-//                if ()
+//            if (str.charAt(i) == ' '){
+//                System.out.println(str.charAt(i));
 //            }
 //        }
-//
-//
-//        }
+//        return res;
+//    }
 
 }

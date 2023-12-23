@@ -2,7 +2,7 @@ package LeetCode;
 
 public class SearchPosition {
 
-    public static int searchInsert(int[] nums, int target) {
+    public  int searchInsert(int[] nums, int target) {
         // Пройдем по элементам массива
         for (int i = 0; i < nums.length; i++) {
             // Если нашли элемент, равный целевому числу, вернем его индекс
