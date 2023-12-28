@@ -1,23 +1,25 @@
 package LeetCode;
 
-import java.util.Arrays;
-import java.util.Objects;
+
 
 public class SingleNumber {
     public static void main(String[] args) {
-        SingleNumber singleNumber = new SingleNumber();
-        int nums[] = {1,2,3,3,2};
-//        singleNumber.singleNumber(nums);
+        int nums [] = {4,1,2,1,2};
+        System.out.println(findSingleNumber(nums));
+
     }
-//    public int singleNumber(int[] nums) {
-//        Arrays.stream(nums).filter(num-> {
-//            if (num == nums.length - 1) {
-//                return num;
-//            }else {
-//                return 0;
-//            }
-//        });
-//
-//        return 0;
+
+
+    public static int findSingleNumber(int[] nums) {
+        int result = 0;
+
+        // XOR all elements in the array
+        for (int num : nums) {
+            result ^= num;
+        }
+
+        return result;
     }
+
+}
 
