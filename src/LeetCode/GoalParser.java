@@ -1,5 +1,7 @@
 package LeetCode;
 
 public class GoalParser {
-    main
+//    public String interpret(String command) {
+//        for (String)
+//    }
 }
