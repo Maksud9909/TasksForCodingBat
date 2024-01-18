@@ -5,27 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved some tasks">
-      <change afterPath="$PROJECT_DIR$/src/Array2/Has12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/Has77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/HaveThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/ModThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/SameEnds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/ShiftLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/TWoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/TripleUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functional2/No34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functional2/NoLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functional2/NoYY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functional2/Square56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functional2/Two2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic2/CloseFar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map2/FirstChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map2/WordAppend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String1/FirstTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TasksForCodingBat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TasksForCodingBat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Map2/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Map2/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String1/Without2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String1/Without2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String1/withoutX2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String1/withoutX2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String2/SameStarChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/SameStarChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +60,7 @@
     &quot;Application.ConCat.executor&quot;: &quot;Run&quot;,
     &quot;Application.DiffOfSums.executor&quot;: &quot;Run&quot;,
     &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstTwo.executor&quot;: &quot;Run&quot;,
     &quot;Application.KidWithCandies.executor&quot;: &quot;Run&quot;,
     &quot;Application.LessBy10.executor&quot;: &quot;Run&quot;,
     &quot;Application.MapAB2.executor&quot;: &quot;Run&quot;,
@@ -108,13 +93,13 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordCount">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion1.Factorial" />
+  <component name="RunManager" selected="Application.FirstTwo">
+    <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String1.FirstTwo" />
       <module name="TasksForCodingBat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion1.*" />
+          <option name="PATTERN" value="String1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstTwo" />
+        <item itemvalue="Application.Without2" />
         <item itemvalue="Application.WordCount" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.LessBy10" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Without2" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704536254874</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Solved some tasks">
+      <option name="closed" value="true" />
+      <created>1705305766935</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1705305766935</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
