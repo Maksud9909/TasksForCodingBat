@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved some tasks">
-      <change afterPath="$PROJECT_DIR$/src/String1/FirstTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/FizArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/GetUnlucky13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Post4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Sum67.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String1/Without2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String1/Without2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String1/withoutX2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String1/withoutX2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String2/SameStarChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/SameStarChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2/FizArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2/FizArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2/Has22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2/Has22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705305766935</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Solved some tasks">
+      <option name="closed" value="true" />
+      <created>1705581618454</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1705581618454</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
