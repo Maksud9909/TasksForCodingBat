@@ -15,6 +15,3 @@ public class MakeChocolate {
 
 
 }
-//else if (tea>= 5 && candy>= 5){
-//            return 1;
-//        }
