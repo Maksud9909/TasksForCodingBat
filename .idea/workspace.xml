@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved some tasks">
-      <change afterPath="$PROJECT_DIR$/src/Array2/WithoutTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Logic2/MakeChocalte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String2/GetSandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AP1/ScoresAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map2/WordMultiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic2/MakeChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic2/MakeChocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logic2/NoTeenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logic2/NoTeenSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String2/SameStarChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String2/SameStarChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705903868293</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Solved some tasks">
+      <option name="closed" value="true" />
+      <created>1714716192248</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1714716192249</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

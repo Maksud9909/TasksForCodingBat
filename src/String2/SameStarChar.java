@@ -4,15 +4,24 @@ import java.lang.ref.SoftReference;
 
 public class SameStarChar {
     public boolean sameStarChar(String str) {
-        for (int i = 0; i < str.length(); i++) {
-
-            if (str.charAt(i)=='*'){
-                if (str.charAt(i-1)==str.charAt(i+1)){
-                    return true;
+        boolean res = false;
+        char [] arr = str.toCharArray();
+        if (str.isEmpty() || str == null || str.equals("*") || str.equals("**")){
+            return true;
+        }
+        for (int i = 1; i < arr.length -1; i++) {
+            int lastElement = arr[arr.length - 1];
+            if (arr[i] == '*'){
+                if (arr[i-1] == arr[i+1] || arr[i-1] == lastElement){
+                    res =  true;
+                }
+                else {
+                    res = false;
                 }
             }
+
         }
-        return false;
+        return res;
     }
 
 }
