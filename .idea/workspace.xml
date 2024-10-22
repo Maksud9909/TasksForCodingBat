@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66454b96-dd37-43a6-b638-a4a959ab244d" name="Changes" comment="Solved some tasks">
-      <change afterPath="$PROJECT_DIR$/src/Z/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/ZeroMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/FizArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/More14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/Only14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AP1/ScoresAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AP1/ScoresAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2/Has22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2/Has22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array2/Sum67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array2/Sum67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Z/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +64,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AddStar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arr.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConCat.executor&quot;: &quot;Run&quot;,
     &quot;Application.DiffOfSums.executor&quot;: &quot;Run&quot;,
     &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
@@ -81,6 +91,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/maksudrustamov/Documents/Code/Back-end/JavaProjects/TasksForCodingBat&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -92,7 +103,20 @@
       <command value="sin" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.WithoutTen">
+  <component name="RunManager" selected="Application.Arr">
+    <configuration name="Arr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z.Arr" />
+      <module name="TasksForCodingBat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Z.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String1.FirstTwo" />
       <module name="TasksForCodingBat" />
@@ -102,13 +126,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test1" />
-      <module name="TasksForCodingBat" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -154,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arr" />
         <item itemvalue="Application.WithoutTen" />
         <item itemvalue="Application.FirstTwo" />
         <item itemvalue="Application.Without2" />
         <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
